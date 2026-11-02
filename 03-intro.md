@@ -205,6 +205,7 @@ sudo systemctl enable --now docker
 1. Enable virtualization in BIOS. Install WSL 2: `wsl --install`
 2. Download **Docker Desktop for Windows** from <https://www.docker.com/products/docker-desktop/>
 3. Run the installer (choose "Use WSL 2"), restart, open Docker Desktop.
+
 **macOS:**
  
 1. Download **Docker Desktop for Mac** (Apple Silicon or Intel version).
